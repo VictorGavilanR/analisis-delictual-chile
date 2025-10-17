@@ -62,7 +62,6 @@ El objetivo principal es **comprender el comportamiento y las tendencias delictu
 
 ## 🧭 Próximos pasos
 
-- Ampliar el análisis a nivel **regional o comunal**.  
 - Implementar un **modelo predictivo simple** para estimar tendencias futuras.  
 - Crear un **dashboard interactivo** en Streamlit o Power BI.
 
@@ -73,7 +72,7 @@ El objetivo principal es **comprender el comportamiento y las tendencias delictu
 **Víctor Gavilán**  
 Ingeniero en Informática | Desarrollador Web & Analista de Datos  
 📍 Chile  
-🔗 [LinkedIn](https://www.linkedin.com/in/victorgavilanr)  
+🔗 [LinkedIn](https://www.linkedin.com/in/victorgavilan)  
 🔗 [GitHub](https://github.com/VictorGavilanR)
 
 ---
